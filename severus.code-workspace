@@ -1,0 +1,14 @@
+{
+  "folders": [
+    { "path": ".", "name": "severus" },
+  ],
+  "extensions": {
+    "recommendations": [
+      "EditorConfig.EditorConfig",
+      "JakeBecker.elixir-ls",
+    ]
+  },
+  "settings": {
+    //
+  },
+}
